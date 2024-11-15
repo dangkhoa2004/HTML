@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "AsmrProg Translator",
+    "name": "dnagkh0a Translator",
     "version": "1.0",
-    "description": "A simple translator extension coded by : AsmrProg",
+    "description": "A simple translator extension coded by : dnagkh0a",
     "action": {
         "default_popup": "index.html"
     },

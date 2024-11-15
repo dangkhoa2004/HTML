@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Color Picker",
-    "description": "Simple Color Picker Extension that we created in AsmrProg Channel. Pick any color on web page, Picked Colors history, Copy RGB and Hex or Clear them with a single click.",
+    "description": "Simple Color Picker Extension that we created in dnagkh0a Channel. Pick any color on web page, Picked Colors history, Copy RGB and Hex or Clear them with a single click.",
     "version": "1.0",
     "action": {
         "default_popup": "index.html"

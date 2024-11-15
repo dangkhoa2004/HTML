@@ -5,7 +5,7 @@ In this tutorial ([Open in Youtube](https://youtu.be/e13YYMna74s)),  I am gonna 
 
 #### Day #4 Link
 
-<a href="https://github.com/AsmrProg-YT/100-days-of-javascript/tree/master/Day%20%2304%20-%20QR%20Code%20Generator" target="_blank">QR Code Generator Source</a>
+<a href="https://github.com/dnagkh0a-YT/100-days-of-javascript/tree/master/Day%20%2304%20-%20QR%20Code%20Generator" target="_blank">QR Code Generator Source</a>
 
 # Screenshot
 Here we have project screenshot :

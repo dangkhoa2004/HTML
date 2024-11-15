@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Chrome To-Do",
-    "description": "A simple and clean to-do list extension! Coded by AsmrProg.",
+    "description": "A simple and clean to-do list extension! Coded by dnagkh0a.",
     "version": "1.0",
     "action": {
         "default_popup": "index.html"
