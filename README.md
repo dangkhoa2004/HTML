@@ -1,4 +1,4 @@
-# HTML Projects Collection
+# <img align="center" width="48" src="./assets/HTML.svg" width="48" height="48" alt="HTML"/> HTML Projects Collection 
 
 Chào mừng bạn đến với kho lưu trữ các dự án HTML, CSS và JavaScript mà tôi đã thu thập được! Kho lưu trữ này bao gồm nhiều dự án thú vị và hữu ích giúp bạn cải thiện kỹ năng lập trình web.
 
@@ -12,7 +12,7 @@ Chào mừng bạn đến với kho lưu trữ các dự án HTML, CSS và JavaS
 ## Giới Thiệu
 Đây là kho chứa các dự án HTML, CSS và JavaScript mà tôi đã thu thập và tổ chức lại. Những dự án này giúp bạn học hỏi, tham khảo và áp dụng các kỹ thuật lập trình web cơ bản và nâng cao. Các dự án bao gồm nhiều chủ đề như giao diện người dùng, trò chơi, ứng dụng web, và các hiệu ứng đặc biệt.
 
-## Các Dự Án
+## <img align="center" width="48" src="./assets/projects.png" width="48" height="48" alt="HTML"/> Các Dự Án
 
 Dưới đây là danh sách các dự án có trong kho:
 
@@ -22,7 +22,7 @@ Dưới đây là danh sách các dự án có trong kho:
 
 Lưu ý: Mỗi thư mục dự án sẽ có các tệp HTML, CSS, và JavaScript liên quan để bạn dễ dàng tham khảo và chỉnh sửa.
 
-## Cài Đặt và Chạy Dự Án
+## <img align="center" width="48" src="./assets/settings.png" width="48" height="48" alt="HTML"/> Cài Đặt và Chạy Dự Án
 
 Để bắt đầu với bất kỳ dự án nào trong kho lưu trữ này, chỉ cần làm theo các bước đơn giản dưới đây:
 
@@ -38,7 +38,7 @@ Lưu ý: Mỗi thư mục dự án sẽ có các tệp HTML, CSS, và JavaScript
 
 3. **Mở tệp HTML trong trình duyệt yêu thích của bạn**. Dự án sẽ tự động hiển thị trên trình duyệt.
 
-## Thông Tin Ngôn Ngữ Dự Án
+## <img align="center" width="48" src="./assets/language.png" width="48" height="48" alt="HTML"/> Thông Tin Ngôn Ngữ Dự Án
 
 Dưới đây là tỷ lệ sử dụng các ngôn ngữ trong dự án GitHub này:
 
