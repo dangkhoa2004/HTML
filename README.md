@@ -12,7 +12,7 @@ Chào mừng bạn đến với kho lưu trữ các dự án HTML, CSS và JavaS
 ## Giới Thiệu
 Đây là kho chứa các dự án HTML, CSS và JavaScript mà tôi đã thu thập và tổ chức lại. Những dự án này giúp bạn học hỏi, tham khảo và áp dụng các kỹ thuật lập trình web cơ bản và nâng cao. Các dự án bao gồm nhiều chủ đề như giao diện người dùng, trò chơi, ứng dụng web, và các hiệu ứng đặc biệt.
 
-## <img align="center" width="48" src="./assets/projects.png" width="48" height="48" alt="HTML"/> Các Dự Án
+## <img align="center" width="48" src="./assets/projects.png" width="48" height="48" alt="HTML"/> Danh Sách Các Dự Án
 
 Dưới đây là danh sách các dự án có trong kho:
 
